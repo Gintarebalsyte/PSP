@@ -1,0 +1,1 @@
+Apie gautus testus: parašyti aiškiai, lengva suprasti, ko tikėtasi. Galiu pridėti, kad testai nebuvo labai suvaržantys, tad vietomis buvo galima pačiai nuspręsti, kaip metodai elgsis atitinkamomis situacijomis.
