@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PSP.iml" filepath="$PROJECT_DIR$/PSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/third_task/third_task.iml" filepath="$PROJECT_DIR$/third_task/third_task.iml" />
     </modules>
   </component>
 </project>
